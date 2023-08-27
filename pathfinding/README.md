@@ -5,7 +5,7 @@ When the search reaches the end, shortest(not for DFS) path is highlighted from 
 
 ## Path Finding Algorithms used:
 1. A* (star)
-2. 
+2. DFS
 3. BFS
 4. Dijkstra's algorithm
 
